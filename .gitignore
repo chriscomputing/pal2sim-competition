@@ -1,0 +1,9 @@
+data
+.venv
+.idea
+__pycache__
+*.pyc
+reports
+logs
+.codex
+*.jpeg
